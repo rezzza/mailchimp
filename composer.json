@@ -14,7 +14,8 @@
     "require": {
         "php": ">=5.0.0"
     },
+    "target-dir": "Rezzza/MailChimp",
     "autoload": {
-        "psr-0": { "Rezzza\\Mailchimp": "" }
+        "psr-0": { "Rezzza\\MailChimp\\": "" }
     }
 }
