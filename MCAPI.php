@@ -1,6 +1,6 @@
 <?php
 
-namespace Rezzza\Mailchimp;
+namespace Rezzza\MailChimp;
 
 class MCAPI {
     var $version = "1.3";
